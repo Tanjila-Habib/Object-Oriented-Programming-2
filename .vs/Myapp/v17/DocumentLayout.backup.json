@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|c:\\users\\hp\\downloads\\myapp_final_v1.0.1 2\\myapp\\myapp\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|solutionrelative:myapp\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\myapp\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|solutionrelative:myapp\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|c:\\users\\hp\\downloads\\myapp_final_v1.0.1 2\\myapp\\myapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|solutionrelative:myapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|c:\\users\\hp\\downloads\\myapp_final_v1.0.1 2\\myapp\\myapp\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|solutionrelative:myapp\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|c:\\users\\hp\\downloads\\myapp_final_v1.0.1 2\\myapp\\myapp\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|solutionrelative:myapp\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|c:\\users\\hp\\downloads\\myapp_final_v1.0.1 2\\myapp\\myapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|solutionrelative:myapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|c:\\users\\hp\\downloads\\myapp_final_v1.0.1 2\\myapp\\myapp\\viewcertificateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|solutionrelative:myapp\\viewcertificateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|c:\\users\\hp\\downloads\\myapp_final_v1.0.1 2\\myapp\\myapp\\viewcertificateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|solutionrelative:myapp\\viewcertificateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|c:\\users\\hp\\downloads\\myapp_final_v1.0.1 2\\myapp\\myapp\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|solutionrelative:myapp\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|c:\\users\\hp\\downloads\\myapp_final_v1.0.1 2\\myapp\\myapp\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|solutionrelative:myapp\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|c:\\users\\hp\\downloads\\myapp_final_v1.0.1 2\\myapp\\myapp\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|solutionrelative:myapp\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|c:\\users\\hp\\downloads\\myapp_final_v1.0.1 2\\myapp\\myapp\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|solutionrelative:myapp\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\myapp\\applyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|solutionrelative:myapp\\applyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|c:\\users\\hp\\downloads\\myapp_final_v1.0.1 2\\myapp\\myapp\\applyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|solutionrelative:myapp\\applyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|c:\\users\\hp\\downloads\\myapp_final_v1.0.1 2\\myapp\\myapp\\certificateauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|solutionrelative:myapp\\certificateauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|c:\\users\\hp\\downloads\\myapp_final_v1.0.1 2\\myapp\\myapp\\certificateauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|solutionrelative:myapp\\certificateauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\myapp\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|solutionrelative:myapp\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\myapp\\applyform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1C77CD-8215-4B23-BC36-45BDB62A9476}|Myapp\\BirthCertificateApp.csproj|solutionrelative:myapp\\applyform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Myapp\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\LoginForm.cs",
+              "RelativeToolTip": "Myapp\\LoginForm.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADgvx8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:07:10.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\Signup.cs",
+              "RelativeDocumentMoniker": "Myapp\\Signup.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\Signup.cs",
+              "RelativeToolTip": "Myapp\\Signup.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:01:58.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\UserManagement.cs",
+              "RelativeDocumentMoniker": "Myapp\\UserManagement.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\UserManagement.cs [Design]",
+              "RelativeToolTip": "Myapp\\UserManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:12:20.595Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserManagement.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\UserManagement.cs",
+              "RelativeDocumentMoniker": "Myapp\\UserManagement.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\UserManagement.cs",
+              "RelativeToolTip": "Myapp\\UserManagement.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAADgv3UAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:14:06.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Signup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\Signup.cs",
+              "RelativeDocumentMoniker": "Myapp\\Signup.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\Signup.cs [Design]",
+              "RelativeToolTip": "Myapp\\Signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:01:53.149Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Myapp\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Myapp\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:06:49.969Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewCertificateForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\ViewCertificateForm.cs",
+              "RelativeDocumentMoniker": "Myapp\\ViewCertificateForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\ViewCertificateForm.cs",
+              "RelativeToolTip": "Myapp\\ViewCertificateForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:13:09.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewCertificateForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\ViewCertificateForm.cs",
+              "RelativeDocumentMoniker": "Myapp\\ViewCertificateForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\ViewCertificateForm.cs [Design]",
+              "RelativeToolTip": "Myapp\\ViewCertificateForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:12:22.636Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Userdashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\Userdashboard.cs",
+              "RelativeDocumentMoniker": "Myapp\\Userdashboard.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\Userdashboard.cs [Design]",
+              "RelativeToolTip": "Myapp\\Userdashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:12:15.877Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "Myapp\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "Myapp\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T05:44:48.718Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "Myapp\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\AdminDashboard.cs",
+              "RelativeToolTip": "Myapp\\AdminDashboard.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAADgv0cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:03:10.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\AdminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Myapp\\AdminDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\AdminDashboard.Designer.cs",
+              "RelativeToolTip": "Myapp\\AdminDashboard.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAADwv1EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T05:44:24.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplyForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\ApplyForm.cs",
+              "RelativeDocumentMoniker": "Myapp\\ApplyForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\ApplyForm.cs [Design]",
+              "RelativeToolTip": "Myapp\\ApplyForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:52:11.156Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CertificateAuth.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\CertificateAuth.cs",
+              "RelativeDocumentMoniker": "Myapp\\CertificateAuth.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\CertificateAuth.cs",
+              "RelativeToolTip": "Myapp\\CertificateAuth.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIAxwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:12:34.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplyForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\ApplyForm.cs",
+              "RelativeDocumentMoniker": "Myapp\\ApplyForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\ApplyForm.cs",
+              "RelativeToolTip": "Myapp\\ApplyForm.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwBYAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:37:17.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CertificateAuth.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\CertificateAuth.cs",
+              "RelativeDocumentMoniker": "Myapp\\CertificateAuth.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\CertificateAuth.cs [Design]",
+              "RelativeToolTip": "Myapp\\CertificateAuth.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:12:31.136Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Userdashboard.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\Userdashboard.cs",
+              "RelativeDocumentMoniker": "Myapp\\Userdashboard.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\Userdashboard.cs",
+              "RelativeToolTip": "Myapp\\Userdashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:01:02.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplyForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\ApplyForm.Designer.cs",
+              "RelativeDocumentMoniker": "Myapp\\ApplyForm.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Myapp_final_v1.0.1 2\\Myapp\\Myapp\\ApplyForm.Designer.cs",
+              "RelativeToolTip": "Myapp\\ApplyForm.Designer.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAYwP4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:52:31.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
